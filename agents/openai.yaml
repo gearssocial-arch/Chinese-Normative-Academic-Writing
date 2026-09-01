@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文规范学术写作"
+  short_description: "把真实问题写成读者能够跟随、证据能够支撑的中文规范学术论证"
+  default_prompt: "使用 $chinese-normative-academic-writing 将这份中文学术材料写成问题真实、逻辑连贯、证据准确且读者能够理解的论证。"
