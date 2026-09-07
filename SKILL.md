@@ -19,7 +19,8 @@ description: >
 - 一篇论文只保留一个中心问题和与之对应的中心回答。
 - 下一步必须由上一步产生，连接词不能代替缺失的理由。
 - 优先写具体的人、任务、判断、材料和后果；概念只在完成必要区分时出现。
-- 每一节、每一段和每份材料都要推动同一条论证链。
+- 每一节、每一段和每份材料都要推动同一条论证链；段落层级应让这条论证链直接可见。
+- 中文句法以语义完整和自然停顿为准，不把逗号、冒号或破折号机械地当作逻辑连接工具。
 - 围绕最强证据发布贡献，不写成研究日志或自我审查报告。
 - 小问题不升级，真问题不隐藏；保留边界，但不要穿盔甲。
 - 论文追求清楚、成立和充分，不追求无穷完备。
@@ -37,7 +38,7 @@ description: >
 ## 参考文件路由
 
 - 研究问题、提纲、论点、规范推理或逻辑跳步：读取 [references/real-question-and-argument.md](references/real-question-and-argument.md)。
-- 读者故事、章节推进、具体语言、术语、例子或重复：读取 [references/concrete-language-and-story.md](references/concrete-language-and-story.md)。
+- 读者故事、章节推进、段落层级、中文句法、标点、具体语言、术语、例子或重复：读取 [references/concrete-language-and-story.md](references/concrete-language-and-story.md)。
 - 文献、来源、原创性、发布会原则、必要边界或防御性表达：读取 [references/evidence-and-academic-release.md](references/evidence-and-academic-release.md)。
 - 评价后修改、局部修订、反复重构或判断论证是否已经充分：读取 [references/revision-and-sufficiency.md](references/revision-and-sufficiency.md)。
 
